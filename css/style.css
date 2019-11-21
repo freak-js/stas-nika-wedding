@@ -1,0 +1,196 @@
+.d-flex-center
+{
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.d-flex-center-column
+{
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.d-flex-center-row
+{
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+.header
+{
+	background-color: #f4c0af;
+	height: 840px;
+}
+.header_img
+{
+	padding: 40px 0 50px;
+}
+.header_invite
+{
+	color: #163e3a;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 24px;
+	letter-spacing: .2em;
+}
+.header_date
+{
+	color: #163e3a;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	letter-spacing: .1em;
+}
+.main
+{
+	background-color: #fff;
+	height: 620px;
+}
+
+.main_table{
+    padding-bottom: 50px;
+	background-color: #fff;
+}
+
+.main_img{
+    margin-bottom: 30px;
+}
+
+.main_flower
+{
+	height: 240px;
+}
+.main_name
+{
+	color: #163e3a;
+	font-family: 'Bad Script',cursive;
+	font-size: 50px;
+	font-weight: 700;
+	letter-spacing: .2em;
+}
+.main_invite_text
+{
+	color: #163e3a;
+	font-family: 'Bad Script',cursive;
+	font-size: 35px;
+	letter-spacing: 2px;
+	margin-top: 10px;
+}
+
+.main_frame{
+    background-image: url(frame.svg)
+}
+
+.footer
+{
+	background-color: #f4c0af;
+}
+.footer_flower
+{
+	height: 190px;
+}
+.footer_invite
+{
+	height: 170px;
+}
+
+.footer_invite_guests{
+    height: 250px;
+}
+
+.footer_invite__content
+{
+	display: flex;
+	width: 880px;
+}
+.footer_location
+{
+	width: 400px;
+}
+.width_line
+{
+	width: 80px;
+}
+.footer_date
+{
+	color: #163e3a;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 100px;
+	font-weight: 700;
+	letter-spacing: .1em;
+}
+.footer_date_text
+{
+	color: #163e3a;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 28px;
+	letter-spacing: .1em;
+}
+.foter_line
+{
+	background-color: #163e3a;
+	height: 100%;
+	width: 3px;
+}
+.right
+{
+	display: flex;
+	flex-direction: column;
+}
+.left
+{
+	display: flex;
+	justify-content: flex-end;
+}
+.mb-5
+{
+	margin-bottom: 5px;
+}
+.street
+{
+	font-size: 16px;
+	margin-top: 10px;
+}
+.timer
+{
+	font-size: 0;
+	height: 300px;
+	text-align: center;
+}
+.timer_section
+{
+	display: inline-block;
+	vertical-align: top;
+}
+.timer_section > div
+{
+	background: #6b493f40;
+	border-radius: 15px;
+	color: #fff;
+	display: inline-block;
+	font-size: 90px;
+	line-height: 100px;
+	margin: 0 2px;
+	vertical-align: top;
+	width: 75px;
+}
+.timer_section > div.timer_section_desc
+{
+	background: none;
+	color: inherit;
+	display: block;
+	font-size: 16px;
+	line-height: 30px;
+	margin: 0;
+	text-transform: uppercase;
+	width: auto;
+}
+.timer_delimetr
+{
+	display: inline-block;
+	font-size: 50px;
+	line-height: 70px;
+	margin: 0 5px;
+	vertical-align: top;
+}

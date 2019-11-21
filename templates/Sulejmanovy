@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+  <meta charset="utf-8">
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="Семья Сулеймановых" />
+  <meta property="og:description" content="Приглашем Вас на свадьбу" />
+  <meta property="og:url" content="http://stas-nika-wedding.ru"/>
+  <meta property="og:image"content="http://stas-nika-wedding.ru/opg.png"/>
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <title>S&N WEDDING</title>
+  <link rel="stylesheet" href="resset.css">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Bad+Script&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+</head>
+<body>
+
+    <header class="header">
+
+        <div class="header_img d-flex-center">
+
+            <img src="pic.png" alt="Стансилав и Вероника">
+
+        </div>
+
+        <div class="d-flex-center-column">
+
+            <span class="header_invite">ПРИГЛАШАЕМ НА СВАДЬБУ</span>
+            <span class="header_date">28 <small>СЕНТЯБРЯ</small> 2019</span>
+
+        </div>
+
+    </header>
+
+    <main class="main">
+
+        <div class="main_flower d-flex-center">
+
+            <img src="flower.png" alt="Цветок">
+
+        </div>
+
+        <div class="d-flex-center-column">
+
+            <span class="main_name">Семья Сулеймановых</span>
+            <span class="main_invite_text">С радостью приглашаем Вас разделить всместе наше первое</span>
+            <span class="main_invite_text">семейное торжество посвященное бракосочетанию!</span>
+            <span class="main_invite_text">Ждем вас в 17:00!</span>
+
+        </div>
+
+    </main>
+
+    <footer class="footer">
+
+        <div class="footer_flower d-flex-center">
+
+            <img src="flower2.png" alt="Цветок2">
+
+        </div>
+
+        <div class="footer_invite d-flex-center">
+
+            <div class="footer_invite__content">
+
+                <div class="footer_location left">
+
+                    <span class="footer_date">28</span>
+
+                    <div class="footer_date_text d-flex-center-column">
+
+                        <b class="mb-5">СЕНТЯБРЯ</b>
+                        <span class="street">2019 ГОДА</span>
+
+                    </div>
+
+                </div>
+
+                <div class="width_line d-flex-center">
+
+                    <div class="foter_line"></div>
+
+                </div>
+
+                <div class="d-flex-center">
+
+                    <div class="footer_location footer_date_text right">
+
+                        <b>РЕСТОРАН &laquo;FISHKA&raquo;</b>
+                        <span class="street">УЛ. КУБАНСКАЯ НАБЕРЕЖНАЯ, 44</span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="timer d-flex-center" data-finish="2019/09/28 17:00:00">
+
+            <div class="timer_section">
+
+                <div class="days_1">0</div>
+                <div class="days_2">0</div>
+                <div class="timer_section_desc">дней</div>
+
+            </div>
+            <div class="timer_delimetr">:</div>
+
+            <div class="timer_section">
+
+                <div class="hours_1">0</div>
+                <div class="hours_2">0</div>
+                <div class="timer_section_desc">часов</div>
+
+            </div>
+
+            <div class="timer_delimetr">:</div>
+
+            <div class="timer_section">
+
+                <div class="minutes_1">0</div>
+                <div class="minutes_2">0</div>
+                <div class="timer_section_desc">минут</div>
+
+            </div>
+
+            <div class="timer_delimetr">:</div>
+
+            <div class="timer_section">
+
+                <div class="seconds_1">0</div>
+                <div class="seconds_2">0</div>
+                <div class="timer_section_desc">секунд</div>
+
+            </div>
+
+        </div>
+
+    </footer>
+    <script src="timer.js"></script>
+</body>
+</html>

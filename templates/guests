@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+
+  <meta charset="utf-8">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Рассадка">
+  <meta property="og:description" content="Гостей">
+  <meta property="og:url" content="http://stas-nika-wedding.ru">
+  <meta property="og:image"content="http://stas-nika-wedding.ru/opg.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <title>S&N GUESTS</title>
+  <link rel="stylesheet" href="resset.css">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Bad+Script&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+
+    <header class="header">
+
+        <div class="header_img d-flex-center">
+
+            <img src="pic.png" alt="Стансилав и Вероника">
+
+        </div>
+
+        <div class="d-flex-center-column">
+
+            <span class="header_invite">ПРИГЛАШАЕМ НА СВАДЬБУ</span>
+            <span class="header_date">28 <small>СЕНТЯБРЯ</small> 2019</span>
+
+        </div>
+
+    </header>
+
+    <main class="main_table">
+
+        <div class="main_flower d-flex-center">
+
+            <img src="flower.png" alt="Цветок">
+
+        </div>
+
+        <div class="d-flex-center-column">
+
+            <img class="main_img" src="table_1.png" alt="Стол №1">
+            <img class="main_img" src="table_2.png" alt="Стол №2">
+            <img class="main_img" src="table_3.png" alt="Стол №3">
+            <img class="main_img" src="table_4.png" alt="Стол №4">
+
+        </div>
+
+    </main>
+
+    <footer class="footer">
+
+        <div class="footer_flower d-flex-center">
+
+            <img src="flower2.png" alt="Цветок2">
+
+        </div>
+
+        <div class="footer_invite_guests d-flex-center">
+
+            <div class="footer_invite__content">
+
+                <div class="footer_location left">
+
+                    <span class="footer_date">28</span>
+
+                    <div class="footer_date_text d-flex-center-column">
+
+                        <b class="mb-5">СЕНТЯБРЯ</b>
+                        <span class="street">2019 ГОДА</span>
+
+                    </div>
+
+                </div>
+
+                <div class="width_line d-flex-center">
+
+                    <div class="foter_line"></div>
+
+                </div>
+
+                <div class="d-flex-center">
+
+                    <div class="footer_location footer_date_text right">
+
+                        <b>РЕСТОРАН &laquo;FISHKA&raquo;</b>
+                        <span class="street">УЛ. КУБАНСКАЯ НАБЕРЕЖНАЯ, 44</span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </footer>
+</body>
+</html>
