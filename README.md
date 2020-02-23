@@ -1,4 +1,4 @@
-##http://stas-nika-wedding.ru/
+## http://stas-nika-wedding.ru/
 
 Содержимое каталога templates сгенерированно python скриптом, которому был скормлен список гостей по шаблону.
 Задачи скрипта:
